@@ -10,7 +10,7 @@ You can call me rizal or bowo it's up to you
 
 📌 I have learned about web front end technology about 1 year 
 
-😄 I have been learning about web front end technology for about 1 year and my skills are growing fast
+<!-- 😄 I have been learning about web front end technology for about 1 year and my skills are growing fast -->
 
 ---
 If you are interested in getting to know me follow my github and my social media
